@@ -1,0 +1,28 @@
+body, html{
+  height: 100%;
+}
+
+body {
+  background-color: rgba(215, 212, 212, 0.88);
+}
+
+h3 {
+  text-align: center;
+}
+
+form{
+  text-align: center;
+}
+
+.box{
+  font-family: sans-serif;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 2%;
+}
+
+form > textarea{
+  width: 500px;
+  height: 230px;
+}
